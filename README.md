@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agalya</h1>
 <h3 align="center">An enthusiastic and conscientious programmer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agalya-m&label=Profile%20views&color=0e75b6&style=flat" alt="agalya-m" /> </p>
+
 
 - 🔭 I’m currently working on **Web Application and Ml**
 - 🌱 I’m currently learning **Frontend Framework & ML algorithms**
